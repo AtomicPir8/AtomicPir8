@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AtomicPir8
+- 👀 I’m interested in Ethical Hacking and Red Team Cybersecurity
+- 🌱 I’m currently in college majoring in Computer Science
+- 💞️ I’m looking to collaborate on C++ projects, BadUSB, and python attacks
+- 📫 You can reach me best through my instagram @irussell0525
+- ⚡ Fun fact: I can play 6 instruments, but I have the most fun playing bass guitar
